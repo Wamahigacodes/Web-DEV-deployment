@@ -64,7 +64,7 @@ This project incorporates concepts from all 8 weeks of the Power Learn Project c
 5. Try the contact form validation on the Contact page
 
 ## Live Demo
-Live URL: [Please add your live URL here after deployment]
+Live URL: https://wamahigacodes.github.io/Web-DEV-deployment/
 
 ## Future Enhancements
 - Backend integration for form submission
